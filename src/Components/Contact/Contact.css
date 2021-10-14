@@ -1,0 +1,10 @@
+.contact{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.contact-box-para{
+    width: 50%;
+}
+

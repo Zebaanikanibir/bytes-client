@@ -1,0 +1,12 @@
+.header{
+    background-image:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)) , url('../../images/halloween.jpg');
+   background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  padding: 60px 0;
+}
+.header-para{
+    width: 60%;
+    text-align: center;
+    margin: auto;
+}

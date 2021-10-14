@@ -1,0 +1,39 @@
+#card > p >small{
+    font-weight: 700;
+}
+
+
+#content-wrapper{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+    overflow: hidden;
+}
+
+.collection-column{
+	width:100%;
+	padding: 10px;
+
+}
+
+
+
+.thumbnail{
+	object-fit: cover;
+	max-width: 1000px;
+	max-height: 100px;
+	cursor: pointer;
+	opacity: 0.5;
+	margin: 5px;
+	border: 2px solid black;
+
+}
+
+.thumbnail:hover{
+	opacity:1;
+}
+
+.active{
+	opacity: 1;
+}
+

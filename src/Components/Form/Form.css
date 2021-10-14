@@ -1,0 +1,24 @@
+.form{
+    background-color: darkred;
+}
+
+.form-box{
+    display: flex;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-box-input{
+    width: 40%;
+    margin-right: 5px;
+}
+
+.footer{
+    background-color: black;
+  
+}
+
+.footer p{
+    padding: 20px 0;
+}
